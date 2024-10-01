@@ -1,0 +1,6 @@
+[book]
+authors = ["skcc11408"]
+language = "en"
+multilingual = false
+src = "src"
+title = "LCL 141. OSS Monitoring Stack for Observability"
